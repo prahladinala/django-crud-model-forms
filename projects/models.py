@@ -91,3 +91,7 @@ class Tag(models.Model):
 
     def __str__(self):
         return self.name
+
+
+# DJANGO MODEL FORM
+# Is a way to create a form based on a particular model
